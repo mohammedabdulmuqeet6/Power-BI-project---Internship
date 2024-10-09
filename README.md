@@ -1,5 +1,4 @@
 # Power BI Twitter Engagement Analysis
-# Power BI Twitter Engagement Analysis
 
 ## Project Overview
 This project aims to analyze Twitter engagement metrics using Power BI. The focus is on visualizing various aspects of tweet interactions, impressions, and engagement rates over specific time frames and conditions.

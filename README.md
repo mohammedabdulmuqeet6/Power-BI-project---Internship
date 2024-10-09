@@ -1,4 +1,4 @@
-# Power-BI-project---Internship
+# Power BI Twitter Engagement Analysis
 # Power BI Twitter Engagement Analysis
 
 ## Project Overview
